@@ -70,3 +70,29 @@
     background-color: #f25454d9 ;
     color: white;
 }
+/*contact sec*/
+.tag{
+    padding: 2px 2px;
+    text-decoration: none;
+    color: #b0b0b0;
+    border: 1px solid #b0b0b0;
+    border-radius: 3px;
+   margin: 5px;
+}
+.tag:hover{
+    border-color: #f25454d9 ;
+    color: #f25454d9 ;
+    transition: all 1s;
+}
+.bg-idit{
+    background: #1a1a1a;
+}
+.bg-color{
+    background: #222;
+}
+.fexid-sec{
+    height: 35px;
+    width: 35px;
+    background-color: #222;
+    
+}
