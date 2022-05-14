@@ -30,3 +30,43 @@
     color: #f25454;
     transition: 0.5s;
 }
+/*form section*/
+.font-a{
+    font-size: 70px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 70px;
+}
+.font-about{
+    
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+}
+.p-font{
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Open Sans", sans-serif;
+}
+.font-about::after{
+    content: "";
+    position: absolute;
+    top: 110%;
+    right: 45%;
+    height: 2px;
+    width: 100px;
+    background-color: black;
+}
+.font-3p{
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.75em;
+    color: #666;
+}
+.btn-submit{
+    border-radius: 3px;
+    padding: 18px 30px;
+    line-height: 1;
+    font-weight: 700;
+    border-width: 0;
+    background-color: #f25454d9 ;
+    color: white;
+}
