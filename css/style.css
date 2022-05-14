@@ -12,3 +12,21 @@
     left: 40%;   
 }
 /*************************************************************/
+
+
+
+
+/* services section  */
+.bg-serv{
+    background-color: #fafafa;
+}
+
+.cotent h5{
+    transition: 0.5s;
+
+}
+
+.cotent:hover h5{
+    color: #f25454;
+    transition: 0.5s;
+}
